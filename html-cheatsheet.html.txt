@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>HTML Cheat Sheet</title>
+  </head>
+  <body>
+    <h1>HTML Cheat Sheet</h1>
+    <p><b>&lt;h1&gt;</b> - Heading</p>
+    <p><b>&lt;p&gt;</b> - Paragraph</p>
+    <p><b>&lt;a&gt;</b> - Link</p>
+    <p><b>&lt;img&gt;</b> - Image</p>
+  </body>
+</html>
